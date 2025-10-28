@@ -49,4 +49,6 @@ plt.ylabel("Guessing Prices")
 plt.title("Real vs Guessing Prices:")
 plt.show()
 
+plt.savefig("output.png")  # Grafiği kaydeder
+plt.show()
 
